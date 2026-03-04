@@ -9,18 +9,19 @@ this data as a side project via an incremetel load with AWS Lambda and an AWS RD
 Data just sat for awhile as I abandoned a side project, until now!
 
 Note: I didn't bother setting up an API for this so DB credentials will need to be stored as env in config settings
+
+<img width="885" height="705" alt="Screenshot 2026-03-04 at 12 01 54 PM" src="https://github.com/user-attachments/assets/0aa31c60-d973-4b69-8328-de3970465f77" />
+
 ---
 
 # Features
 
 * MCP server using `FastMCP`
-* MySQL database integration
 * Read-only SQL querying
 * Methods:
   * List all gym locations
   * Retrieve a specific location
   * Find the least busy gym
-* Environment-based configuration using `.env`
 * Compatible with Claude Desktop MCP integration
 
 

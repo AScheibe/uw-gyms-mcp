@@ -1,0 +1,51 @@
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# macOS folders
+._*
+.Spotlight-V100
+.Trashes
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints/

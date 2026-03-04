@@ -100,8 +100,8 @@ Example configuration:
 {
   "mcpServers": {
     "uwgym-mysql": {
-      "command": "/Users/alexscheibe/Desktop/uwgym-mcp/.venv/bin/python",
-      "args": ["/Users/alexscheibe/Desktop/uwgym-mcp/server.py"],
+      "command": "/[PATH]/uwgym-mcp/.venv/bin/python",
+      "args": ["/[PATH]/uwgym-mcp/server.py"],
       "env": {
         "UWB_DB_HOST":,
         "UWB_DB_PORT":,
